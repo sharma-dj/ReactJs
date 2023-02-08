@@ -1,1 +1,2 @@
-## Movie API App
+# Movie API App
+Movie App using a free API
