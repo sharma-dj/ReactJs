@@ -5,11 +5,16 @@ const initial_todos = [
   {
     id:1,
     title:"Title1",
-    completed:false
+    completed:true
   },
   {
     id:2,
     title:"Title2",
+    completed:false
+  },
+  {
+    id:3,
+    title:"Title3",
     completed:false
   }
 ]
