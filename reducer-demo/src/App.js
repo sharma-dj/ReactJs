@@ -47,7 +47,7 @@ const App = () => {
               checked={todo.completed}
               onChange={() => handleEvent(todo)}
             />
-          {todo.completed ? <h1 style={{color:'green'}}>{todo.title}</h1> : <h1 style={{color:'red'}}>{todo.title}</h1>}
+          {todo.completed ? <h1 style={{color:'lightgreen'}}>{todo.title}</h1> : <h1 style={{color:'red'}}>{todo.title}</h1>}
           </label>
         </div>
         ))
