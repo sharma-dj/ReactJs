@@ -16,6 +16,11 @@ const initial_todos = [
     id:3,
     title:"Title3",
     completed:false
+  },
+  {
+    id:4,
+    title:"Title4",
+    completed:true
   }
 ]
 //console.log(initial_todos)
