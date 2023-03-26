@@ -23,7 +23,7 @@ const initial_todos = [
     completed:true
   }
 ]
-//console.log(initial_todos)
+console.log(initial_todos)
 
 const reducer = (state,action) => {
   if (action.type === 'COMPLETE') {
